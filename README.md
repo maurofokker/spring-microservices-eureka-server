@@ -43,3 +43,8 @@ be used to construct the Eureka Server
     * _Spring Boot settings - Active Profiles (intellij)_: `[peer1|peer2]`
 * these servers will replicate any application instances or microservices that register with the spring eureka service and 
   that provide some redundancy within the architecture of the distributed system
+  
+## Related documentation
+
+* [the mystery of eureka health monitoring](https://dzone.com/articles/the-mystery-of-eureka-health-monitoring)
+* [the mystery of eurekas self preservation](https://dzone.com/articles/the-mystery-of-eurekas-self-preservation)
